@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/X1"
+        android:state_checked="true"
+        android:color="@color/goodgrey"
+        android:title="X1" />
+
+    <item
+        android:id="@+id/T1"
+        android:state_checked="true"
+        android:color="@color/goodgrey"
+        android:title="T1" />
+
+    <item
+        android:id="@+id/T2"
+        android:color="@color/goodgrey"
+        android:state_checked="true"
+        android:title="T2" />
+
+    <item
+        android:id="@+id/S1"
+        android:state_checked="true"
+        android:color="@color/goodgrey"
+        android:title="S1" />
+
+</menu>
